@@ -2,7 +2,7 @@
 <h3 align="center">A Tech Enthusiast</h3>
 
 - 🔭 I’m currently working on enhancing my Skills
-- 🌱 I’m currently learning ReactJS, NodeJS, MongoDB
+- 🌱 I’m currently learning MERN Stack
 - 👯 I would love to collaborate on different projects
 - 🤔 I’m looking for help with Open Source
 - 💬 Ask me anything about Tech?
