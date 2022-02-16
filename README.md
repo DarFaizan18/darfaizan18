@@ -1,7 +1,7 @@
 <h1 align="center">Hey There! 👋, I'm Faizan Mehraj</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on enhancing my Skills
 - 🌱 I’m currently learning ReactJS, NodeJS, MongoDB
 - 👯 I would love to collaborate on different projects
 - 🤔 I’m looking for help with Open Source
